@@ -97,5 +97,8 @@ function proviceName(cityName) {
     case '宁夏回族自治区':
       rootName.push('province_ningxia/');
       break;
+    case '贵州省':
+      rootName.push('province_guizhou/');
+      break;
   }
 }
